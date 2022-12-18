@@ -8,4 +8,4 @@ $ git clone https://github.com/SODHAIRy/itsHamzi.git
 
 $ cd itsHamzi
 
-$ python 
+$ python mardan_enc.py 
